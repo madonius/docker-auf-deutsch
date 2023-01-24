@@ -7,7 +7,7 @@ Docker (Kai) auf Deutsch schafft hier Abhilfe!
 
 ## Vorschläge
 
-## `docker container` bzw. `kai tonne`
+## `docker container` bzw. `kaier tonne`
 
 | Verb/Befehl | Aktueller Gebrauch | Vorschlag |
 | :--  | :--                | :-- |
@@ -33,3 +33,7 @@ Docker (Kai) auf Deutsch schafft hier Abhilfe!
 | unpause | unpausen | enpausieren |
 | update | updaten | aktualisieren |
 | wait | waiten | warten |
+
+### Inspiration
+
+[Git auf Deutsch](https://github.com/Ohkiam/git-auf-deutsch)
